@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2026-03-29 09:16:34.729976",
+    "sport": "NBA",
+    "day_of_month": 28,
+    "predicted_total": 100.64,
+    "linear_output": 6.32,
+    "base_number": 21,
+    "date_digit_sum": 23,
+    "game_date": "2026-03-28",
+    "actual_total": 160.0,
+    "teams": null,
+    "was_correct": false,
+    "error": 59.36,
+    "adjustment_applied": 1.0
+  },
+  {
+    "id": 2,
+    "timestamp": "2026-03-29 09:27:39.843119",
+    "sport": "NBA",
+    "day_of_month": 28,
+    "predicted_total": 100.64,
+    "linear_output": 6.32,
+    "base_number": 21,
+    "date_digit_sum": 23,
+    "game_date": "2026-03-28",
+    "actual_total": null,
+    "teams": null,
+    "was_correct": null,
+    "error": null,
+    "adjustment_applied": 1.0983041865394807
+  }
+]

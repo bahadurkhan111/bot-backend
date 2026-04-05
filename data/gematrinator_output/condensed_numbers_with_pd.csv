@@ -1,0 +1,32 @@
+number,sequence_1,position_1,sequence_2,position_2,sequence_3,position_3,sequence_4,position_4,sequence_5,position_5,Pd
+1,Fibonacci,1.0,Triangular,1.0,Square,1.0,Cube,1.0,Tetrahedral,1.0,1
+2,Fibonacci,1.0,Prime,1.0,,,,,,,1
+3,Fibonacci,2.0,Triangular,2.0,Prime,2.0,,,,,8
+4,Square,2.0,Tetrahedral,2.0,,,,,,,4
+5,Fibonacci,3.0,Square Pyramidal,3.0,Pentagonal,3.0,Prime,3.0,,,81
+6,Triangular,3.0,,,,,,,,,3
+7,Prime,4.0,,,,,,,,,4
+8,Fibonacci,6.0,Cube,6.0,,,,,,,36
+9,Square,3.0,,,,,,,,,3
+10,Triangular,4.0,Tetrahedral,4.0,,,,,,,16
+11,Prime,5.0,,,,,,,,,5
+12,Pentagonal,3.0,,,,,,,,,3
+13,Fibonacci,6.0,Star,6.0,Prime,6.0,,,,,216
+14,Square Pyramidal,3.0,,,,,,,,,3
+15,Triangular,5.0,,,,,,,,,5
+16,Square,4.0,,,,,,,,,4
+17,Prime,7.0,,,,,,,,,7
+18,,,,,,,,,,,18
+19,Prime,8.0,,,,,,,,,8
+20,Tetrahedral,4.0,,,,,,,,,4
+21,Fibonacci,8.0,Triangular,8.0,,,,,,,64
+22,Pentagonal,4.0,,,,,,,,,4
+23,Prime,9.0,,,,,,,,,9
+24,,,,,,,,,,,24
+25,Square,5.0,,,,,,,,,5
+26,,,,,,,,,,,26
+27,Cube,3.0,,,,,,,,,3
+28,Triangular,7.0,,,,,,,,,7
+29,Prime,10.0,,,,,,,,,10
+30,Square Pyramidal,4.0,,,,,,,,,4
+31,Prime,11.0,,,,,,,,,11
